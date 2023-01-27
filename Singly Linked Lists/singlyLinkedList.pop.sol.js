@@ -27,7 +27,7 @@ class SinglyLinkedList {
 
     pop() {
         if(!this.head) {
-            return;
+            return undefined;
         } else {
             let current,temp = this.head;
             while(current.next) {
