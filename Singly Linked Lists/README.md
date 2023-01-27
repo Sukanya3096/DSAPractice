@@ -9,3 +9,5 @@ Each item is mapped, it's indexed with a number so any time we add something in,
 A linked list, on the other hand, just consists of a bunch of elements with no indices who are just pointing to the next element.
 Basically, Linked List is a data structure that contains a head, a tail and a length property. Linked Lists contains node and each node has a value and a pointer to another node or null
 
+![singleLinkedList](https://user-images.githubusercontent.com/49310523/215096808-0749a9dd-59a9-42ad-beaa-17e9d1172ea5.png)
+
