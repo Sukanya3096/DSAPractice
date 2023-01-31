@@ -24,3 +24,9 @@ Basically, Linked List is a data structure that contains a head, a tail and a le
 - Insertion and deletion can be expensive
 - Can be quickly accessed at a specific location
 
+### **Big O of Singly Linked Lists:**
+Insertion : O(1)
+Removal : Removing at first => O(1), for other cases => O(n)
+Search: O(n)
+Access: O(n)
+
