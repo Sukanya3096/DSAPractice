@@ -70,6 +70,12 @@
         For example, the pair [0, 1], indicates that to take course 0 you have to first take course 1.
         Return true if you can finish all courses. Otherwise, return false.
 
+- Longest Arithmetic Subsequence of Given Difference
+
+        Given an integer array arr and an integer difference, return the length of the longest subsequence in arr which is an arithmetic sequence such that the difference between adjacent elements in the subsequence equals difference.
+
+        A subsequence is a sequence that can be derived from arr by deleting some or no elements without changing the order of the remaining elements.
+
 - Maximum Number of Events That Can Be Attended II
 
         You are given an array of events where events[i] = [startDayi, endDayi, valuei]. The ith event starts at startDayi and ends at endDayi, and if you attend this event, you will receive a value of valuei. You are also given an integer k which represents the maximum number of events you can attend.
